@@ -1,0 +1,78 @@
+country,region,start,end
+Austria,Estern,2025-06-28,2025-08-31
+Austria,Western,2025-07-05,2025-09-08
+Belgium,Flandes,2025-07-01,2025-08-31
+Belgium,Valonia,2025-07-07,2025-08-22
+Bulgaria,Bulgaria,2025-07-01,2025-09-15
+Croatia,Croatia,2025-06-20,2025-09-01
+Cyprus,Cyprus,2025-06-20,2025-09-10
+Czech Republic,Czech Republic,2025-07-01,2025-08-31
+Denmark,Denmark,2025-06-28,2025-08-10
+Estonia,Estonia,2025-06-10,2025-08-31
+Finland,Finland,2025-06-01,2025-08-10
+France,France,2025-07-05,2025-09-01
+Germany,Baviera,2025-08-01,2025-09-15
+Germany,Baden-Wurtemberg,2025-07-31,2025-09-13
+Germany,Berlin,2025-07-24,2025-09-06
+Germany,Brandeburg,2025-07-24,2025-09-06
+Germany,Bremen,2025-07-03,2025-08-13
+Germany,Hamburg,2025-07-24,2025-09-03
+Germany,Hessen,2025-07-07,2025-08-15
+Germany,Mecklenburg-Vorpommern,2025-07-28,2025-09-06
+Germany,Niedersachsen,2025-07-03,2025-08-13
+Germany,Nordrhein-Westfalen,2025-07-14,2025-08-26
+Germany,Rheinland-Pfalz,2025-07-07,2025-08-15
+Germany,Saarland,2025-07-07,2025-08-14
+Germany,Sachsen,2025-06-28,2025-08-08
+Germany,Sachsen-Anhalt,2025-06-28,2025-08-08
+Germany,Schleswig-Holstein,2025-07-28,2025-09-06
+Germany,Thüringen,2025-06-28,2025-08-08
+Greece,Greece,2025-06-15,2025-09-10
+Hungary,Hungary,2025-06-20,2025-08-31
+Hungary,Hungary,2025-06-15,2025-08-31
+Ireland,Ireland,2025-06-30,2025-08-31
+Italy,Lazio,2025-06-10,2025-09-10
+Italy,Lombardia,2025-06-09,2025-09-12
+Italy,Toscana,2025-06-09,2025-09-15
+Italy,Sicilia,2025-06-07,2025-09-15
+Italy,Emilia-Romagna,2025-06-07,2025-09-15
+Italy,Veneto,2025-06-11,2025-09-10
+Italy,Piemonte,2025-06-09,2025-09-15
+Italy,Campania,2025-06-09,2025-09-15
+Italy,Calabria,2025-06-09,2025-09-16
+Italy,Liguria,2025-06-09,2025-09-15
+Italy,Trentino-Alto Adige,2025-06-14,2025-09-05
+Latvia,Latvia,2025-06-01,2025-08-31
+Lithuania,Lithuania,2025-06-01,2025-08-31
+Luxembourg,Luxembourg,2025-07-15,2025-09-15
+Malta,Malta,2025-07-01,2025-09-15
+Netherlands,North,2025-07-12,2025-08-24
+Netherlands,Central,2025-07-19,2025-08-31
+Netherlands,South,2025-07-05,2025-08-17
+Norway,Norway,2025-06-20,2025-08-17
+Poland,Poland,2025-06-28,2025-08-31
+Portugal,Portugal,2025-06-15,2025-09-15
+Romania,Romania,2025-06-21,2025-09-07
+Slovakia,Slovakia,2025-07-01,2025-08-31
+Slovenia,Slovenia,2025-06-26,2025-08-31
+Spain,Andalucía,2025-06-20,2025-09-09
+Spain,Aragón,2025-06-19,2025-09-09
+Spain,Asturias,2025-06-21,2025-09-09
+Spain,Baleares,2025-06-21,2025-09-11
+Spain,Canarias,2025-06-20,2025-09-09
+Spain,Cantabria,2025-06-21,2025-09-09
+Spain,Castilla-La Mancha,2025-06-20,2025-09-09
+Spain,Castilla y León,2025-06-20,2025-09-09
+Spain,Cataluña,2025-06-22,2025-09-11
+Spain,Comunidad Valenciana,2025-06-21,2025-09-09
+Spain,Extremadura,2025-06-20,2025-09-09
+Spain,Galicia,2025-06-21,2025-09-09
+Spain,Madrid,2025-06-21,2025-09-06
+Spain,Murcia,2025-06-20,2025-09-09
+Spain,Navarra,2025-06-20,2025-09-09
+Spain,País Vasco,2025-06-20,2025-09-09
+Spain,La Rioja,2025-06-20,2025-09-09
+Spain,Ceuta,2025-06-20,2025-09-09
+Spain,Melilla,2025-06-20,2025-09-09
+Sweden,Sweden,2025-06-10,2025-08-20
+Switzerland,Switzerland,2025-07-13,2025-08-18
