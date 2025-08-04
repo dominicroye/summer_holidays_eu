@@ -23,3 +23,8 @@ Feel free to open a pull request or start a discussion in the Issues tab. All co
 
 📝 Sources
 We rely on official government calendars, educational ministry announcements, and verified public data. If you spot an error or have a better source, let me know!
+
+
+CC BY-NC 4.0
+Creative Commons Attribution-NonCommercial 4.0 International
+This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only.
